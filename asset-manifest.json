@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sefart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sefart/static/js/main.d7989e3d.chunk.js",
+    "main.js.map": "/sefart/static/js/main.d7989e3d.chunk.js.map",
+    "runtime-main.js": "/sefart/static/js/runtime-main.7bfd24e4.js",
+    "runtime-main.js.map": "/sefart/static/js/runtime-main.7bfd24e4.js.map",
+    "static/js/2.ec27bf25.chunk.js": "/sefart/static/js/2.ec27bf25.chunk.js",
+    "static/js/2.ec27bf25.chunk.js.map": "/sefart/static/js/2.ec27bf25.chunk.js.map",
+    "index.html": "/sefart/index.html",
+    "precache-manifest.8aaedeac04bc5fbaeed187e842b37434.js": "/sefart/precache-manifest.8aaedeac04bc5fbaeed187e842b37434.js",
+    "service-worker.js": "/sefart/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sefart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ec27bf25.chunk.js.LICENSE.txt": "/sefart/static/js/2.ec27bf25.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sefart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bfd24e4.js",
+    "static/js/2.ec27bf25.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d7989e3d.chunk.js"
+  ]
+}
