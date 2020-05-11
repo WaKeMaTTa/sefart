@@ -2,7 +2,29 @@
   "name": "sefart",
   "version": "0.1.0",
   "homepage": "https://wakematta.github.io/sefart",
+  "description": "Web implementation of Sefart methodology (bitmaps of Hebrew literature)",
+  "main": "index.js",
+  "license": "MIT",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakematta/sefart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wakematta/sefart/issues"
+  },
+  "keywords": [
+    "sefart",
+    "bitmaps",
+    "binary",
+    "hebrew",
+    "hebrew-bible",
+    "methodology",
+    "sefart-methodology",
+    "encryptography",
+    "decoding",
+    "encrypt"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
